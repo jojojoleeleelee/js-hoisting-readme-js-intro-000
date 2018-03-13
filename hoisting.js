@@ -21,11 +21,7 @@ function crazy() {
   thisIsCrazy(); // function call
 }
 
-function sayMyName() {
-  // fix the code in here:
- 
-name ();
-function name () {
+function sayMyName() {{
   console.log(name);
   name=
   "Kristin"
