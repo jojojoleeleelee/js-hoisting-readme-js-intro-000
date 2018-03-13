@@ -22,9 +22,8 @@ function crazy() {
 }
 
 function sayMyName() {{
-  console.log(name);
-  name=
-  "Kristin"
+  console.log("Kristin");
+  
    }
 }
 
