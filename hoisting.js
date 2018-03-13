@@ -23,12 +23,10 @@ function crazy() {
 
 function sayMyName() {
   // fix the code in here:
- 
-var name;
-name ();
-name = function () {
+
   console.log("Kristin");
   
    }
+   sayMyName();
 }
 
