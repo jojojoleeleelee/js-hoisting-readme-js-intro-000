@@ -24,10 +24,11 @@ function crazy() {
 function sayMyName() {
   // fix the code in here:
  
-  var name = "Kristin"; // function definition
+var name;
 name ();
-sayMyName = function() {
+name = function () {
   console.log("Kristin");
-}
+  
    }
+}
 
