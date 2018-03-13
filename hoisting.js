@@ -24,7 +24,6 @@ function crazy() {
 function sayMyName() {
   // fix the code in here:
  
-var name;
 name ();
 function name () {
   console.log(name);
